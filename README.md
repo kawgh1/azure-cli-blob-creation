@@ -42,3 +42,9 @@ In the Blob section of the storage account overview, select Containers. Leave th
 ### Clean up
 
 `az group delete --name az204-blob-rg --no-wait`
+
+### Other
+
+#### Set and retrieve properties and metadata for blob resources by using REST
+
+-   https://learn.microsoft.com/en-us/training/modules/work-azure-blob-storage/6-set-retrieve-properties-metadata-rest
