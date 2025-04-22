@@ -1,6 +1,7 @@
 ### Info
 
 -   AZ-204 - C# Console App that connects to an Azure Storage Container, creates a BlobServiceClient, creates a container, writes a file to it, downloads the file and then deletes the blob and container.
+-   https://learn.microsoft.com/en-us/training/modules/work-azure-blob-storage/4-develop-blob-storage-dotnet
 
 ### Setting up
 
