@@ -38,3 +38,7 @@ In the Blob section of the storage account overview, select Containers. Leave th
 
 `dotnet build`
 `dotnet run`
+
+### Clean up
+
+`az group delete --name az204-blob-rg --no-wait`
